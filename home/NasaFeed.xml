@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>NASA Breaking News</title>
+        <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+        <link>http://www.nasa.gov/</link>
+        <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+        <language>en-us</language>
+        <managingEditor>jim.wilson@nasa.gov</managingEditor>
+        <webMaster>brian.dunbar@nasa.gov</webMaster>
+        <docs>http://blogs.harvard.edu/tech/rss</docs>
+        <item>
+            <title>NASA’s Astronaut Candidates to Graduate with Eye on Artemis Missions</title>
+            <link>http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions</link>
+            <description>NASA will honor the first class of astronaut candidates to graduate under the Artemis program at 10:30 a.m. EST Friday, Jan. 10, at the agency’s Johnson Space Center in Houston. After completing more than two years of basic training, these candidates will become eligible for spaceflight, including assignments to the International Space Station, Art</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/astrograds.jpg?itok=Db5GAUu0" length="4191214" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions</guid>
+            <pubDate>Wed, 18 Dec 2019 13:53 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456839</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Selects Informal Learning Institutions to Engage Next Generation</title>
+            <link>http://www.nasa.gov/press-release/nasa-selects-informal-learning-institutions-to-engage-next-generation</link>
+            <description>NASA’s Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) program has selected four informal education organizations to promote STEM learning and help inspire the next generation of explorers.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=36eU9WU7" length="189751" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-selects-informal-learning-institutions-to-engage-next-generation</guid>
+            <pubDate>Tue, 17 Dec 2019 16:27 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456808</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Named Best Place to Work in Federal Government for 8th Straight Year</title>
+            <link>http://www.nasa.gov/press-release/nasa-named-best-place-to-work-in-federal-government-for-8th-straight-year</link>
+            <description>For the eighth consecutive year, NASA has been selected by the Partnership for Public Service as the Best Place to Work in Government. The rankings, announced Tuesday, reflect NASA’s unified focus and dedication to sending humans farther into space than ever before, and the agency’s highest employee satisfaction results since this index was develop</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_employees.jpg?itok=dUZm6MQt" length="3404910" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-named-best-place-to-work-in-federal-government-for-8th-straight-year</guid>
+            <pubDate>Tue, 17 Dec 2019 15:44 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456805</dc:identifier>
+        </item>
+        <item>
+            <title>NASA’s X-59 Quiet Supersonic Research Aircraft Cleared for Final Assembly</title>
+            <link>http://www.nasa.gov/press-release/nasa-s-x-59-quiet-supersonic-research-aircraft-cleared-for-final-assembly</link>
+            <description>NASA’s first large scale, piloted X-plane in more than three decades is cleared for final assembly and integration of its systems following a major project review by senior managers held Thursday at NASA Headquarters in Washington.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/landing_001_photo_credit_lockheed_martin_1.jpg?itok=8e42j6gX" length="3413806" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-x-59-quiet-supersonic-research-aircraft-cleared-for-final-assembly</guid>
+            <pubDate>Mon, 16 Dec 2019 11:42 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456762</dc:identifier>
+        </item>
+        <item>
+            <title>NASA to Provide Coverage of Boeing Orbital Flight Test for Commercial Crew</title>
+            <link>http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-boeing-orbital-flight-test-for-commercial-crew</link>
+            <description>The launch of Boeing’s Orbital Flight Test (OFT) to the International Space Station, as part of NASA’s Commercial Crew Program, is targeted for 6:36 a.m. EST Friday, Dec. 20. The uncrewed flight test will be the Boeing CST-100 Starliner’s maiden mission to the space station.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49173041263_f12a59f657_k_0.jpg?itok=TjGJx_6d" length="354735" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-boeing-orbital-flight-test-for-commercial-crew</guid>
+            <pubDate>Fri, 13 Dec 2019 18:36 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456751</dc:identifier>
+        </item>
+        <item>
+            <title>X Marks the Spot: NASA Selects Site for Asteroid Sample Collection</title>
+            <link>http://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection</link>
+            <description>After a year scoping out asteroid Bennu’s boulder-scattered surface, the team leading NASA’s first asteroid sample return mission has officially selected a sample collection site.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nightingale_0.png?itok=-JO46wk9" length="23694407" type="image/png" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection</guid>
+            <pubDate>Thu, 12 Dec 2019 12:56 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456699</dc:identifier>
+        </item>
+        <item>
+            <title>Texas Students to Speak with NASA Astronaut Aboard Space Station</title>
+            <link>http://www.nasa.gov/press-release/texas-students-to-speak-with-nasa-astronaut-aboard-space-station</link>
+            <description>Students from Texas will have an opportunity this week to talk with a NASA astronaut currently living and working aboard the International Space Station.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss061e038290.jpeg?itok=9mvcC7lY" length="2629784" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/texas-students-to-speak-with-nasa-astronaut-aboard-space-station</guid>
+            <pubDate>Wed, 11 Dec 2019 11:36 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456577</dc:identifier>
+        </item>
+        <item>
+            <title>NASA, Boeing to Hold Media Teleconference on Orbital Flight Test Mission</title>
+            <link>http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-teleconference-on-orbital-flight-test-mission</link>
+            <description>NASA and Boeing will hold a news teleconference Thursday, Dec. 12, following the agency’s Flight Readiness Review for Boeing’s uncrewed Orbital Flight Test (OFT) to the International Space Station, as part of NASA’s Commercial Crew Program.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49173041263_f12a59f657_k.jpg?itok=RsA9odXI" length="354735" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-teleconference-on-orbital-flight-test-mission</guid>
+            <pubDate>Tue, 10 Dec 2019 17:08 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456525</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Administrator Names Robert Pearce Head of Agency Aeronautics</title>
+            <link>http://www.nasa.gov/press-release/nasa-administrator-names-robert-pearce-head-of-agency-aeronautics</link>
+            <description>NASA Administrator Jim Bridenstine has named Robert Pearce as the next associate administrator for the Aeronautics Research Mission Directorate (ARMD). Pearce replaces Jaiwon Shin, who retired from the agency on Aug. 31.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/robert-a-pearce-2.jpg?itok=8NVG008Y" length="1392775" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-names-robert-pearce-head-of-agency-aeronautics</guid>
+            <pubDate>Tue, 10 Dec 2019 14:13 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456507</dc:identifier>
+        </item>
+        <item>
+            <title>New NASA eBook Reveals Insights of Earth Seen at Night from Space</title>
+            <link>http://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space</link>
+            <description>Earth has many stories to tell, even in the dark of night. Earth at Night, NASA’s new 200-page ebook, is now available online and includes more than 150 images of our planet in darkness as captured from space by Earth-observing satellites and astronauts on the International Space Station over the past 25 years.</description>
+            <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/book_cover_0.jpg?itok=Wv2aA-Si" length="496308" type="image/jpeg" />
+            <guid isPermaLink="false">http://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space</guid>
+            <pubDate>Tue, 10 Dec 2019 09:44 EST</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>456487</dc:identifier>
+        </item>
+    </channel>
+</rss>

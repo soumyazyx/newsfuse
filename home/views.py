@@ -1,7 +1,11 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+import feedparser
 
 
 def index(request):
-    # return HttpResponse('Hello from Python!')
-    return render(request, "home/index.html")
+    feed = feedparser.parse('https://www.nasa.gov/rss/dyn/breaking_news.rss')
+    context = {
+        'feed': feed
+    }
+    return render(request, "home/index.html", context)

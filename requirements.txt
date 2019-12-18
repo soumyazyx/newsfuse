@@ -1,3 +1,4 @@
 django
 gunicorn
 django-heroku
+feedparser-5.2.1

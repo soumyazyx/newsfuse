@@ -1,0 +1,519 @@
+{   'bozo': 0,
+    'encoding': 'utf-8',
+    'entries': [   
+        {   'dc_identifier': '456839',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions',
+                       'link': 'http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-s-astronaut-candidates-to-graduate-with-eye-on-artemis-missions',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/astrograds.jpg?itok=Db5GAUu0',
+                                        'length': '4191214',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Wed, 18 Dec 2019 13:53 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=18, tm_min=53, tm_sec=0, tm_wday=2, tm_yday=352, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'NASA will honor the first class of '
+                                  'astronaut candidates to graduate under the '
+                                  'Artemis program at 10:30 a.m. EST Friday, '
+                                  'Jan. 10, at the agency’s Johnson Space '
+                                  'Center in Houston. After completing more '
+                                  'than two years of basic training, these '
+                                  'candidates will become eligible for '
+                                  'spaceflight, including assignments to the '
+                                  'International Space Station, Art',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'NASA will honor the '
+                                                      'first class of '
+                                                      'astronaut candidates to '
+                                                      'graduate under the '
+                                                      'Artemis program at '
+                                                      '10:30 a.m. EST Friday, '
+                                                      'Jan. 10, at the '
+                                                      'agency’s Johnson Space '
+                                                      'Center in Houston. '
+                                                      'After completing more '
+                                                      'than two years of basic '
+                                                      'training, these '
+                                                      'candidates will become '
+                                                      'eligible for '
+                                                      'spaceflight, including '
+                                                      'assignments to the '
+                                                      'International Space '
+                                                      'Station, Art'},
+                       'title': 'NASA’s Astronaut Candidates to Graduate with '
+                                'Eye on Artemis Missions',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA’s Astronaut '
+                                                    'Candidates to Graduate '
+                                                    'with Eye on Artemis '
+                                                    'Missions'}
+                                                    },
+                   {   'dc_identifier': '456808',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-selects-informal-learning-institutions-to-engage-next-generation',
+                       'link': 'http://www.nasa.gov/press-release/nasa-selects-informal-learning-institutions-to-engage-next-generation',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-selects-informal-learning-institutions-to-engage-next-generation',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=36eU9WU7',
+                                        'length': '189751',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Tue, 17 Dec 2019 16:27 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=17, tm_hour=21, tm_min=27, tm_sec=0, tm_wday=1, tm_yday=351, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'NASA’s Teams Engaging Affiliated Museums '
+                                  'and Informal Institutions (TEAM II) program '
+                                  'has selected four informal education '
+                                  'organizations to promote STEM learning and '
+                                  'help inspire the next generation of '
+                                  'explorers.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'NASA’s Teams Engaging '
+                                                      'Affiliated Museums and '
+                                                      'Informal Institutions '
+                                                      '(TEAM II) program has '
+                                                      'selected four informal '
+                                                      'education organizations '
+                                                      'to promote STEM '
+                                                      'learning and help '
+                                                      'inspire the next '
+                                                      'generation of '
+                                                      'explorers.'},
+                       'title': 'NASA Selects Informal Learning Institutions '
+                                'to Engage Next Generation',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA Selects Informal '
+                                                    'Learning Institutions to '
+                                                    'Engage Next Generation'}},
+                   {   'dc_identifier': '456805',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-named-best-place-to-work-in-federal-government-for-8th-straight-year',
+                       'link': 'http://www.nasa.gov/press-release/nasa-named-best-place-to-work-in-federal-government-for-8th-straight-year',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-named-best-place-to-work-in-federal-government-for-8th-straight-year',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_employees.jpg?itok=dUZm6MQt',
+                                        'length': '3404910',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Tue, 17 Dec 2019 15:44 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=17, tm_hour=20, tm_min=44, tm_sec=0, tm_wday=1, tm_yday=351, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'For the eighth consecutive year, NASA has '
+                                  'been selected by the Partnership for Public '
+                                  'Service as the Best Place to Work in '
+                                  'Government. The rankings, announced '
+                                  'Tuesday, reflect NASA’s unified focus and '
+                                  'dedication to sending humans farther into '
+                                  'space than ever before, and the agency’s '
+                                  'highest employee satisfaction results since '
+                                  'this index was develop',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'For the eighth '
+                                                      'consecutive year, NASA '
+                                                      'has been selected by '
+                                                      'the Partnership for '
+                                                      'Public Service as the '
+                                                      'Best Place to Work in '
+                                                      'Government. The '
+                                                      'rankings, announced '
+                                                      'Tuesday, reflect NASA’s '
+                                                      'unified focus and '
+                                                      'dedication to sending '
+                                                      'humans farther into '
+                                                      'space than ever before, '
+                                                      'and the agency’s '
+                                                      'highest employee '
+                                                      'satisfaction results '
+                                                      'since this index was '
+                                                      'develop'},
+                       'title': 'NASA Named Best Place to Work in Federal '
+                                'Government for 8th Straight Year',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA Named Best Place to '
+                                                    'Work in Federal '
+                                                    'Government for 8th '
+                                                    'Straight Year'}},
+                   {   'dc_identifier': '456762',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-s-x-59-quiet-supersonic-research-aircraft-cleared-for-final-assembly',
+                       'link': 'http://www.nasa.gov/press-release/nasa-s-x-59-quiet-supersonic-research-aircraft-cleared-for-final-assembly',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-s-x-59-quiet-supersonic-research-aircraft-cleared-for-final-assembly',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/landing_001_photo_credit_lockheed_martin_1.jpg?itok=8e42j6gX',
+                                        'length': '3413806',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Mon, 16 Dec 2019 11:42 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=16, tm_hour=16, tm_min=42, tm_sec=0, tm_wday=0, tm_yday=350, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'NASA’s first large scale, piloted X-plane '
+                                  'in more than three decades is cleared for '
+                                  'final assembly and integration of its '
+                                  'systems following a major project review by '
+                                  'senior managers held Thursday at NASA '
+                                  'Headquarters in Washington.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'NASA’s first large '
+                                                      'scale, piloted X-plane '
+                                                      'in more than three '
+                                                      'decades is cleared for '
+                                                      'final assembly and '
+                                                      'integration of its '
+                                                      'systems following a '
+                                                      'major project review by '
+                                                      'senior managers held '
+                                                      'Thursday at NASA '
+                                                      'Headquarters in '
+                                                      'Washington.'},
+                       'title': 'NASA’s X-59 Quiet Supersonic Research '
+                                'Aircraft Cleared for Final Assembly',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA’s X-59 Quiet '
+                                                    'Supersonic Research '
+                                                    'Aircraft Cleared for '
+                                                    'Final Assembly'}},
+                   {   'dc_identifier': '456751',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-boeing-orbital-flight-test-for-commercial-crew',
+                       'link': 'http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-boeing-orbital-flight-test-for-commercial-crew',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-boeing-orbital-flight-test-for-commercial-crew',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49173041263_f12a59f657_k_0.jpg?itok=TjGJx_6d',
+                                        'length': '354735',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Fri, 13 Dec 2019 18:36 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=13, tm_hour=23, tm_min=36, tm_sec=0, tm_wday=4, tm_yday=347, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'The launch of Boeing’s Orbital Flight Test '
+                                  '(OFT) to the International Space Station, '
+                                  'as part of NASA’s Commercial Crew Program, '
+                                  'is targeted for 6:36 a.m. EST Friday, Dec. '
+                                  '20. The uncrewed flight test will be the '
+                                  'Boeing CST-100 Starliner’s maiden mission '
+                                  'to the space station.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'The launch of Boeing’s '
+                                                      'Orbital Flight Test '
+                                                      '(OFT) to the '
+                                                      'International Space '
+                                                      'Station, as part of '
+                                                      'NASA’s Commercial Crew '
+                                                      'Program, is targeted '
+                                                      'for 6:36 a.m. EST '
+                                                      'Friday, Dec. 20. The '
+                                                      'uncrewed flight test '
+                                                      'will be the Boeing '
+                                                      'CST-100 Starliner’s '
+                                                      'maiden mission to the '
+                                                      'space station.'},
+                       'title': 'NASA to Provide Coverage of Boeing Orbital '
+                                'Flight Test for Commercial Crew',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA to Provide Coverage '
+                                                    'of Boeing Orbital Flight '
+                                                    'Test for Commercial '
+                                                    'Crew'}},
+                   {   'dc_identifier': '456699',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection',  
+                       'link': 'http://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nightingale_0.png?itok=-JO46wk9',
+                                        'length': '23694407',
+                                        'rel': 'enclosure',
+                                        'type': 'image/png'}],
+                       'published': 'Thu, 12 Dec 2019 12:56 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=12, tm_hour=17, tm_min=56, tm_sec=0, tm_wday=3, tm_yday=346, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'After a year scoping out asteroid Bennu’s '
+                                  'boulder-scattered surface, the team leading '
+                                  'NASA’s first asteroid sample return mission '
+                                  'has officially selected a sample collection '
+                                  'site.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'After a year scoping '
+                                                      'out asteroid Bennu’s '
+                                                      'boulder-scattered '
+                                                      'surface, the team '
+                                                      'leading NASA’s first '
+                                                      'asteroid sample return '
+                                                      'mission has officially '
+                                                      'selected a sample '
+                                                      'collection site.'},
+                       'title': 'X Marks the Spot: NASA Selects Site for '
+                                'Asteroid Sample Collection',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'X Marks the Spot: NASA '
+                                                    'Selects Site for Asteroid '
+                                                    'Sample Collection'}},
+                   {   'dc_identifier': '456577',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/texas-students-to-speak-with-nasa-astronaut-aboard-space-station',   
+                       'link': 'http://www.nasa.gov/press-release/texas-students-to-speak-with-nasa-astronaut-aboard-space-station', 
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/texas-students-to-speak-with-nasa-astronaut-aboard-space-station',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss061e038290.jpeg?itok=9mvcC7lY',
+                                        'length': '2629784',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Wed, 11 Dec 2019 11:36 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=11, tm_hour=16, tm_min=36, tm_sec=0, tm_wday=2, tm_yday=345, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'Students from Texas will have an '
+                                  'opportunity this week to talk with a NASA '
+                                  'astronaut currently living and working '
+                                  'aboard the International Space Station.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'Students from Texas '
+                                                      'will have an '
+                                                      'opportunity this week '
+                                                      'to talk with a NASA '
+                                                      'astronaut currently '
+                                                      'living and working '
+                                                      'aboard the '
+                                                      'International Space '
+                                                      'Station.'},
+                       'title': 'Texas Students to Speak with NASA Astronaut '
+                                'Aboard Space Station',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'Texas Students to Speak '
+                                                    'with NASA Astronaut '
+                                                    'Aboard Space Station'}},
+                   {   'dc_identifier': '456525',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-teleconference-on-orbital-flight-test-mission',
+                       'link': 'http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-teleconference-on-orbital-flight-test-mission',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-teleconference-on-orbital-flight-test-mission',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49173041263_f12a59f657_k.jpg?itok=RsA9odXI',
+                                        'length': '354735',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Tue, 10 Dec 2019 17:08 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=10, tm_hour=22, tm_min=8, tm_sec=0, tm_wday=1, tm_yday=344, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'NASA and Boeing will hold a news '
+                                  'teleconference Thursday, Dec. 12, following '
+                                  'the agency’s Flight Readiness Review for '
+                                  'Boeing’s uncrewed Orbital Flight Test (OFT) '
+                                  'to the International Space Station, as part '
+                                  'of NASA’s Commercial Crew Program.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'NASA and Boeing will '
+                                                      'hold a news '
+                                                      'teleconference '
+                                                      'Thursday, Dec. 12, '
+                                                      'following the agency’s '
+                                                      'Flight Readiness Review '
+                                                      'for Boeing’s uncrewed '
+                                                      'Orbital Flight Test '
+                                                      '(OFT) to the '
+                                                      'International Space '
+                                                      'Station, as part of '
+                                                      'NASA’s Commercial Crew '
+                                                      'Program.'},
+                       'title': 'NASA, Boeing to Hold Media Teleconference on '
+                                'Orbital Flight Test Mission',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA, Boeing to Hold '
+                                                    'Media Teleconference on '
+                                                    'Orbital Flight Test '
+                                                    'Mission'}},
+                   {   'dc_identifier': '456507',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/nasa-administrator-names-robert-pearce-head-of-agency-aeronautics',  
+                       'link': 'http://www.nasa.gov/press-release/nasa-administrator-names-robert-pearce-head-of-agency-aeronautics',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/nasa-administrator-names-robert-pearce-head-of-agency-aeronautics',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/robert-a-pearce-2.jpg?itok=8NVG008Y',
+                                        'length': '1392775',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Tue, 10 Dec 2019 14:13 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=10, tm_hour=19, tm_min=13, tm_sec=0, tm_wday=1, tm_yday=344, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'NASA Administrator Jim Bridenstine has '
+                                  'named Robert Pearce as the next associate '
+                                  'administrator for the Aeronautics Research '
+                                  'Mission Directorate (ARMD). Pearce replaces '
+                                  'Jaiwon Shin, who retired from the agency on '
+                                  'Aug. 31.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'NASA Administrator Jim '
+                                                      'Bridenstine has named '
+                                                      'Robert Pearce as the '
+                                                      'next associate '
+                                                      'administrator for the '
+                                                      'Aeronautics Research '
+                                                      'Mission Directorate '
+                                                      '(ARMD). Pearce replaces '
+                                                      'Jaiwon Shin, who '
+                                                      'retired from the agency '
+                                                      'on Aug. 31.'},
+                       'title': 'NASA Administrator Names Robert Pearce Head '
+                                'of Agency Aeronautics',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'NASA Administrator Names '
+                                                    'Robert Pearce Head of '
+                                                    'Agency Aeronautics'}},
+                   {   'dc_identifier': '456487',
+                       'guidislink': False,
+                       'id': 'http://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space',  
+                       'link': 'http://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space',
+                       'links': [   {   'href': 'http://www.nasa.gov/press-release/new-nasa-ebook-reveals-insights-of-earth-seen-at-night-from-space',
+                                        'rel': 'alternate',
+                                        'type': 'text/html'},
+                                    {   'href': 'http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/book_cover_0.jpg?itok=Wv2aA-Si',
+                                        'length': '496308',
+                                        'rel': 'enclosure',
+                                        'type': 'image/jpeg'}],
+                       'published': 'Tue, 10 Dec 2019 09:44 EST',
+                       'published_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=10, tm_hour=14, tm_min=44, tm_sec=0, tm_wday=1, tm_yday=344, tm_isdst=0),
+                       'source': {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                     'title': 'NASA Breaking News'},
+                       'summary': 'Earth has many stories to tell, even in the '
+                                  'dark of night. Earth at Night, NASA’s new '
+                                  '200-page ebook, is now available online and '
+                                  'includes more than 150 images of our planet '
+                                  'in darkness as captured from space by '
+                                  'Earth-observing satellites and astronauts '
+                                  'on the International Space Station over the '
+                                  'past 25 years.',
+                       'summary_detail': {   'base': 'http://www.nasa.gov/',
+                                             'language': 'en',
+                                             'type': 'text/html',
+                                             'value': 'Earth has many stories '
+                                                      'to tell, even in the '
+                                                      'dark of night. Earth at '
+                                                      'Night, NASA’s new '
+                                                      '200-page ebook, is now '
+                                                      'available online and '
+                                                      'includes more than 150 '
+                                                      'images of our planet in '
+                                                      'darkness as captured '
+                                                      'from space by '
+                                                      'Earth-observing '
+                                                      'satellites and '
+                                                      'astronauts on the '
+                                                      'International Space '
+                                                      'Station over the past '
+                                                      '25 years.'},
+                       'title': 'New NASA eBook Reveals Insights of Earth Seen '
+                                'at Night from Space',
+                       'title_detail': {   'base': 'http://www.nasa.gov/',
+                                           'language': 'en',
+                                           'type': 'text/plain',
+                                           'value': 'New NASA eBook Reveals '
+                                                    'Insights of Earth Seen at '
+                                                    'Night from Space'}}],
+    'feed': {   'author': 'jim.wilson@nasa.gov',
+                'author_detail': {'email': 'jim.wilson@nasa.gov'},
+                'authors': [{'email': 'jim.wilson@nasa.gov'}],
+                'docs': 'http://blogs.harvard.edu/tech/rss',
+                'language': 'en-us',
+                'link': 'http://www.nasa.gov/',
+                'links': [   {   'href': 'http://www.nasa.gov/',
+                                 'rel': 'alternate',
+                                 'type': 'text/html'},
+                             {   'href': 'http://www.nasa.gov/rss/dyn/breaking_news.rss',
+                                 'rel': 'self',
+                                 'type': 'application/atom+xml'}],
+                'publisher': 'brian.dunbar@nasa.gov',
+                'publisher_detail': {'email': 'brian.dunbar@nasa.gov'},
+                'subtitle': 'A RSS news feed containing the latest NASA news '
+                            'articles and press releases.',
+                'subtitle_detail': {   'base': 'http://www.nasa.gov/',
+                                       'language': 'en',
+                                       'type': 'text/html',
+                                       'value': 'A RSS news feed containing '
+                                                'the latest NASA news articles '
+                                                'and press releases.'},
+                'title': 'NASA Breaking News',
+                'title_detail': {   'base': 'http://www.nasa.gov/',
+                                    'language': 'en',
+                                    'type': 'text/plain',
+                                    'value': 'NASA Breaking News'}},
+    'headers': {   'Cache-Control': 'max-age=120, public',
+                   'Connection': 'close',
+                   'Content-Encoding': 'gzip',
+                   'Content-Language': 'en',
+                   'Content-Length': '3008',
+                   'Content-Type': 'application/rss+xml; charset=utf-8',
+                   'Date': 'Wed, 18 Dec 2019 20:51:15 GMT',
+                   'Server': 'NASA',
+                   'Strict-Transport-Security': 'max-age=31536000',
+                   'Vary': 'Accept-Encoding',
+                   'Via': '1.1 a372f2a2c858a55a472ec9d3d1c6b817.cloudfront.net '
+                          '(CloudFront)',
+                   'X-Amz-Cf-Id': '44L63wqTeFCeI84iKoHypToGjQxt33IHXww0kIqJDFUUUReTR25Kkg==',
+                   'X-Amz-Cf-Pop': 'SIN52-C2',
+                   'X-Cache': 'Hit from cloudfront',
+                   'X-Content-Type-Options': 'nosniff',
+                   'X-Frame-Options': 'SAMEORIGIN',
+                   'X-Nginx-Cache-Status': 'HIT',
+                   'X-XSS-Protection': '1; mode=block'},
+    'href': 'https://www.nasa.gov/rss/dyn/breaking_news.rss',
+    'namespaces': {   '': 'http://www.w3.org/2005/Atom',
+                      'dc': 'http://purl.org/dc/elements/1.1/',
+                      'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
+                      'media': 'http://search.yahoo.com/mrss/'},
+    'status': 200,
+    'version': 'rss20'}
