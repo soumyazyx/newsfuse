@@ -4,39 +4,57 @@
     {% include 'head.html' %}
   <body>
     {% include 'header.html' %}
-    <!-- Latest Posts -->
-    <section class="latest-posts"> 
-      <div class="container">
-        <header> 
-          <h2>Latest from NASA</h2>
-          <!-- <p class="text-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
-        </header>
-
-        <div class="row">
-          {% for entry in feed.entries %}
-          <div class="post col-md-4">
-            <div class="post-thumbnail">
-              <a href="{{ entry.link }}">
-                <img src="{{ entry.links.1.href }}" alt="..." class="img-fluid">
-              </a></div>
-            <div class="post-details">
-              <div class="post-meta d-flex justify-content-between">
-                <div class="date">{{ entry.published }}</div>
-                <!-- <div class="category"><a href="#">Business</a></div> -->
-              </div>
-              <a href="{{ entry.link }}">
-                <h3 class="h4">
-                  {{ entry.title }}
-                </h3>
-              </a>
-              <p class="text-muted">{{entry.summary}}</p>
-            </div>
+    <div class="row">
+        <div class="col-md-2" style="border-right: 1px solid #eee;">
+          <div class="widget categories" style="border:none">
+            <header>
+              <h3 class="h6">Space</h3>
+            </header>
+            <div class="item d-flex justify-content-between"><a href="/NASA">NASA</a><span>12</span></div>
+            <div class="item d-flex justify-content-between"><a href="/ESA">ESA</a><span>25</span></div>
+            <div class="item d-flex justify-content-between"><a href="#">Sales</a><span>8</span></div>
+            <div class="item d-flex justify-content-between"><a href="#">Tips</a><span>17</span></div>
+            <div class="item d-flex justify-content-between"><a href="#">Local</a><span>25</span></div>
           </div>
-          {% endfor %}
-          
         </div>
-      </div>
-    </section>
+        <div class="col-md-10">
+          <!-- Latest Posts -->
+          <section class="latest-posts"> 
+            <div class="container">
+              <header> 
+                <h2>Latest from NASA</h2>
+                <!-- <p class="text-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+              </header>
+
+              <div class="row">
+                {% for entry in feed.entries %}
+                <div class="post col-md-4">
+                  <div class="post-thumbnail">
+                    <a href="{{ entry.link }}">
+                      <img src="{{ entry.links.1.href }}" alt="..." class="img-fluid">
+                    </a></div>
+                  <div class="post-details">
+                    <div class="post-meta d-flex justify-content-between">
+                      <div class="date">{{ entry.published }}</div>
+                      <!-- <div class="category"><a href="#">Business</a></div> -->
+                    </div>
+                    <a href="{{ entry.link }}">
+                      <h3 class="h4">
+                        {{ entry.title }}
+                      </h3>
+                    </a>
+                    <p class="text-muted">{{entry.summary}}</p>
+                  </div>
+                </div>
+                {% endfor %}                
+              </div>
+            </div>
+          </section>
+        </div>
+    </div>
+    
+
+    
     <!-- Newsletter Section-->
     <section class="newsletter no-padding-top">    
       <div class="container">
@@ -81,6 +99,7 @@
       </div>
     </section>
     <!-- Page Footer-->
+    
     <footer class="main-footer">
       <div class="container">
         <div class="row">
