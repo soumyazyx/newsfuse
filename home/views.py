@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from .models import Signup, Article
 import feedparser
 
+
 def index(request):
 
     email_list = Signup.objects.all()
@@ -19,6 +20,7 @@ def index(request):
     }
     return render(request, "index.html", context)
 
+
 def nasa(request):
 
     email_list = Signup.objects.all()
@@ -31,22 +33,36 @@ def nasa(request):
 
     feed = feedparser.parse('https://www.nasa.gov/rss/dyn/breaking_news.rss')
     for entry in feed.entries:
-        new_article = Article()
-        new_article.link = entry['link']
-        new_article.title = entry['title']
-        new_article.author = feed['feed']['author']
-        new_article.summary = entry['summary']
-        new_article.published = entry['published']
-        new_article.article_id = entry['dc_identifier']
-        new_article.author_img_url = ''
-        new_article.article_img_url = entry['links'][1]['href']
-        new_article.save()
+        # try:
+        #     Article.objects.get(article_id=entry['dc_identifier'])
+        # except Article.DoesNotExist:
+        #     new_article = Article()
+        #     new_article.link = entry['link']
+        #     new_article.title = entry['title']
+        #     new_article.author = feed['feed']['author']
+        #     new_article.summary = entry['summary']
+        #     new_article.published = entry['published']
+        #     new_article.article_id = entry['dc_identifier']
+        #     new_article.author_img_url = ''
+        #     new_article.article_img_url = entry['links'][1]['href']
+        #     new_article.save()
+        obj, created = Article.objects.get_or_create(
+            link=entry['link'],
+            title=entry['title'],
+            author=feed['feed']['author'],
+            summary=entry['summary'],
+            published=entry['published'],
+            article_id=entry['dc_identifier'],
+            author_img_url='',
+            article_img_url=entry['links'][1]['href']
+        )
 
     context = {
         'feed': feed,
         'email_list': email_list
     }
     return render(request, "index.html", context)
+
 
 def esa(request):
 
