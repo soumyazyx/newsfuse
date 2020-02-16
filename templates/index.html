@@ -5,9 +5,17 @@
     {% include 'head.html' %}
   <body>
     {% include 'header.html' %}
-    {{user}}
-    <button><a href="{% provider_login_url 'google' %}">Google Login</a></button>
-    <button><a href="{% provider_login_url 'facebook' method='oauth2' %}">Facebook Login</a></button>
+    <!-- 
+    <br/>User: {{user}}
+    <br/>Full Name: {{ user.socialaccount_set.all.0.extra_data.name }}
+    <br/>Avatar URL: {{ user.socialaccount_set.all.0.get_avatar_url }}
+    <br/>UID: {{ user.socialaccount_set.all.0.uid }}
+    <br/>Date Joined: {{ user.socialaccount_set.all.0.date_joined}}
+    <br/>Last Login: {{ user.socialaccount_set.all.0.last_login}}
+    <hr>
+    -->
+    
+    <!-- <button><a href="{% provider_login_url 'facebook' method='oauth2' %}">Facebook Login</a></button> -->
     <div class="row">
         <div class="col-md-2" style="border-right: 1px solid #eee;">
           <div class="widget categories" style="border:none">
@@ -16,9 +24,6 @@
             </header>
             <div class="item d-flex justify-content-between"><a href="/NASA">NASA</a><span>12</span></div>
             <div class="item d-flex justify-content-between"><a href="/ESA">ESA</a><span>25</span></div>
-            <div class="item d-flex justify-content-between"><a href="#">Sales</a><span>8</span></div>
-            <div class="item d-flex justify-content-between"><a href="#">Tips</a><span>17</span></div>
-            <div class="item d-flex justify-content-between"><a href="#">Local</a><span>25</span></div>
           </div>
         </div>
         <div class="col-md-10">
