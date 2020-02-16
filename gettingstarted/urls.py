@@ -7,6 +7,7 @@ admin.autodiscover()
 
 urlpatterns = [
     path("", home.views.index, name="home-index"),
+    path('', include('allauth.urls')),
     path("admin/", admin.site.urls),
     path("NASA/", home.views.nasa),
     path("ESA/", home.views.esa),

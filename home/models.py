@@ -23,3 +23,36 @@ class Article(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class Category(models.Model):
+    title = models.CharField(max_length=255)    
+    added_ts = models.DateTimeField(auto_now_add=True)
+    description = models.TextField()
+
+    def __str__(self):
+        return self.title
+
+    class Meta:
+        verbose_name_plural = "Categories"
+
+
+class Feed(models.Model):
+    title = models.CharField(max_length=255)
+    rss_url = models.TextField()
+    added_ts = models.DateTimeField(auto_now_add=True)
+    description = models.TextField()
+
+    def __str__(self):
+        return self.title
+
+    class Meta:
+        verbose_name_plural = 'Feeds'
+
+
+class Category_Feed(models.Model):
+    feed_id = models.ForeignKey(Feed, on_delete=models.CASCADE)
+    category_id = models.ForeignKey(Category, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return "{}-{}".format(self.category_id, self.feed_id)

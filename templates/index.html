@@ -1,9 +1,13 @@
 {% load static %}
+{% load socialaccount %}
 <!DOCTYPE html>
 <html>
     {% include 'head.html' %}
   <body>
     {% include 'header.html' %}
+    {{user}}
+    <button><a href="{% provider_login_url 'google' %}">Google Login</a></button>
+    <button><a href="{% provider_login_url 'facebook' method='oauth2' %}">Facebook Login</a></button>
     <div class="row">
         <div class="col-md-2" style="border-right: 1px solid #eee;">
           <div class="widget categories" style="border:none">

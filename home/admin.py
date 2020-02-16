@@ -1,6 +1,8 @@
 from django.contrib import admin
-from home.models import Signup, Article
+from home.models import Signup, Article, Category, Feed, Category_Feed
 
 admin.site.register(Signup)
 admin.site.register(Article)
-# Register your models here.
+admin.site.register(Category)
+admin.site.register(Feed)
+admin.site.register(Category_Feed)
