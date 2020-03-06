@@ -34,13 +34,12 @@
                 <h2>Latest from NASA</h2>
                 <!-- <p class="text-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
               </header>
-
               <div class="row">
-                {% for entry in feed.entries %}
+                {% for entry in feed %}
                 <div class="post col-md-4">
                   <div class="post-thumbnail">
                     <a href="{{ entry.link }}">
-                      <img src="{{ entry.links.1.href }}" alt="..." class="img-fluid">
+                      <img src="{{ entry.article_img_url }}" alt="..." class="img-fluid">
                     </a></div>
                   <div class="post-details">
                     <div class="post-meta d-flex justify-content-between">

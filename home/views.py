@@ -1,7 +1,8 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from .models import Signup, Article
 import feedparser
+import requests
 
 
 def index(request):
@@ -31,32 +32,8 @@ def nasa(request):
         new_signup.email = email
         new_signup.save()
 
-    feed = feedparser.parse('https://www.nasa.gov/rss/dyn/breaking_news.rss')
-    for entry in feed.entries:
-        # try:
-        #     Article.objects.get(article_id=entry['dc_identifier'])
-        # except Article.DoesNotExist:
-        #     new_article = Article()
-        #     new_article.link = entry['link']
-        #     new_article.title = entry['title']
-        #     new_article.author = feed['feed']['author']
-        #     new_article.summary = entry['summary']
-        #     new_article.published = entry['published']
-        #     new_article.article_id = entry['dc_identifier']
-        #     new_article.author_img_url = ''
-        #     new_article.article_img_url = entry['links'][1]['href']
-        #     new_article.save()
-        obj, created = Article.objects.get_or_create(
-            link=entry['link'],
-            title=entry['title'],
-            author=feed['feed']['author'],
-            summary=entry['summary'],
-            published=entry['published'],
-            article_id=entry['dc_identifier'],
-            author_img_url='',
-            article_img_url=entry['links'][1]['href']
-        )
-
+    r = requests.get('https://getmefeed.herokuapp.com/NASA/')
+    feed = r.json()
     context = {
         'feed': feed,
         'email_list': email_list
